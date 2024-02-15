@@ -25,4 +25,4 @@ This package makes the project window much more convenient. This highlights the 
 - https://youtu.be/lva7KKOQ71k
 
 # Contacts
-Email: den.red.fish@gmail.com
+- den.red.fish@gmail.com
