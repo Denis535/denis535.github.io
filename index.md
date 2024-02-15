@@ -3,7 +3,7 @@ My name is Denis and I am a Unity programmer.
 
 # Portfolio
 ## Linq.Next
-This is useful addition to Linq.
+This is a useful addition to Linq.
 - https://www.nuget.org/packages/linq.next
 
 ## Clean Architecture Game Framework
