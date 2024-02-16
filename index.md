@@ -26,5 +26,9 @@ This package provides you with the beautiful UIToolkit theme style sheets and so
 This is a useful addition to Linq.
 - [NuGet](https://www.nuget.org/packages/linq.next)
 
+# Links
+- https://openupm.com/packages/?sort=downloads&q=denis535
+- https://assetstore.unity.com/publishers/90787
+
 # Contacts
 - den.red.fish@gmail.com
