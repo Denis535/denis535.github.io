@@ -27,8 +27,8 @@ This is a useful addition to Linq.
 - [NuGet](https://www.nuget.org/packages/linq.next)
 
 # Links
-- https://openupm.com/packages/?sort=downloads&q=denis535
-- https://assetstore.unity.com/publishers/90787
+- [OpenUPM](https://openupm.com/packages/?sort=downloads&q=denis535)
+- [Unity Asset Store](https://assetstore.unity.com/publishers/90787)
 
 # Contacts
-- den.red.fish@gmail.com
+- [Mail](mail://den.red.fish@gmail.com)
