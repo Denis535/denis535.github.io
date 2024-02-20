@@ -31,4 +31,4 @@ This is a useful addition to Linq.
 - [Unity Asset Store](https://assetstore.unity.com/publishers/90787)
 
 # Contacts
-- [Mail](mail://den.red.fish@gmail.com)
+- [Mail](https://den.red.fish@gmail.com)
