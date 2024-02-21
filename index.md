@@ -1,5 +1,6 @@
 # Introduction
-My name is Denis and I am a Unity programmer.
+[Logo](https://github.com/Denis535/denis535.github.io/blob/c963ebdd24dcfafb91f7ed3e25c8ac9dab49b89d/Icon.png)
+Hello, my name is Denis and I am a Unity programmer.
 
 # Portfolio
 ## Clean Architecture Game Template
