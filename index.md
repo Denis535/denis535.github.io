@@ -1,5 +1,5 @@
 # Introduction
-![Logo](https://github.com/Denis535/denis535.github.io/blob/6dcb4783eaafc1ab814fbdeabb8946dd1d98582a/Icon%20160x160.png)
+![Logo](https://raw.githubusercontent.com/Denis535/denis535.github.io/main/Icon%20160x160.png)
 
 My name is Denis and I am a Unity programmer.
 
