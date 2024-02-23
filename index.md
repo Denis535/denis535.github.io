@@ -14,15 +14,15 @@ This package provides you with the beautiful UIToolkit theme style sheets and so
 
 ## Clean Architecture Game Framework
 This package provides you with the architecture game framework that helping you to develop your project following the best practices (like Clean Architecture and Uber Ribs).
-- [OpenUPM](https://openupm.com/packages/com.denis535.clean-architecture-game-framework/)
+- [Unity Package Registry](https://openupm.com/packages/com.denis535.clean-architecture-game-framework/)
 
 ## Addressables Source Generator
 This package is addition to Addressables giving you the ability to reference assets in a very convenient way.
-- [OpenUPM](https://openupm.com/packages/com.denis535.addressables-source-generator/)
+- [Unity Package Registry](https://openupm.com/packages/com.denis535.addressables-source-generator/)
 
 ## Colorful Project Window
 This package makes the project window much more convenient. This highlights the special folders (modules, assets, resources and sources) in different colors, thus making the project window easier to use.
-- [OpenUPM](https://openupm.com/packages/com.denis535.colorful-project-window/)
+- [Unity Package Registry](https://openupm.com/packages/com.denis535.colorful-project-window/)
 
 ## Linq.Next
 This is a useful addition to Linq.
