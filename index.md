@@ -29,7 +29,7 @@ This is a useful addition to Linq.
 - [NuGet](https://www.nuget.org/packages/linq.next)
 
 # Links
-- [OpenUPM](https://openupm.com/packages/?sort=downloads&q=denis535)
+- [Unity Package Registry](https://openupm.com/packages/?sort=downloads&q=denis535)
 - [Unity Asset Store](https://assetstore.unity.com/publishers/90787)
 
 # Contacts
