@@ -34,6 +34,7 @@ This is a useful addition to Linq.
 # Links
 - [Unity Package Registry](https://openupm.com/packages/?sort=downloads&q=denis535)
 - [Unity Asset Store](https://assetstore.unity.com/publishers/90787)
+- [itch.io](https://denis535.itch.io/)
 
 # Contacts
 - [Mail](mailto:den.red.fish@gmail.com)
