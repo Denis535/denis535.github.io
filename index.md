@@ -32,8 +32,8 @@ This is a useful addition to Linq.
 - [NuGet](https://www.nuget.org/packages/linq.next)
 
 # Links
-- [Unity Package Registry](https://openupm.com/packages/?sort=downloads&q=denis535)
-- [Unity Asset Store](https://assetstore.unity.com/publishers/90787)
+- [openupm.com](https://openupm.com/packages/?sort=downloads&q=denis535)
+- [assetstore.unity.com](https://assetstore.unity.com/publishers/90787)
 - [itch.io](https://denis535.itch.io/)
 
 # Contacts
