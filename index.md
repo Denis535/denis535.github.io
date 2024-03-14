@@ -9,7 +9,7 @@ This project is well designed game template allowing you to quickly and efficien
 - [YouTube](https://youtu.be/Ht8Spckafw0)
 - [Example](https://drive.google.com/file/d/1NT22bUv8hOdmNAC4mfqGBTfosCLRbrKh/view?usp=drive_link)
 
-## Clean Architecture Game Framework
+## Clean Architecture Game Framework (3 in 1)
 ### Clean Architecture Game Framework
 This package provides you with the architecture game framework that helping you to develop your project following the best practices (like Domain Driven Design, Clean Architecture and Uber Ribs).
 - [YouTube](https://youtu.be/JQobAqfakJQ)
