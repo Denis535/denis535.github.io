@@ -7,7 +7,7 @@ My name is Denis and I am a Unity programmer.
 ## Clean Architecture Game Template
 This project is well designed game template allowing you to quickly and efficiently start developing your project with the best practices (like Clean Architecture and Uber Ribs).
 - [YouTube](https://youtu.be/Ht8Spckafw0)
-- [You can play example](https://drive.google.com/file/d/1NT22bUv8hOdmNAC4mfqGBTfosCLRbrKh/view?usp=drive_link)
+- [You can play the example](https://drive.google.com/file/d/1NT22bUv8hOdmNAC4mfqGBTfosCLRbrKh/view?usp=drive_link)
 
 ## Clean Architecture Game Framework
 This package provides you with the architecture game framework that helping you to develop your project following the best practices (like Clean Architecture and Uber Ribs).
