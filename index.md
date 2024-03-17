@@ -18,8 +18,8 @@ This package provides you with the architecture game framework that helping you 
 ### Addressables Source Generator
 This package is addition to Addressables giving you the ability to reference assets in a very convenient way.
 - [GitHub](https://github.com/Denis535/CleanArchitectureGameFramework/)
-- [YouTube](https://youtu.be/JQobAqfakJQ)
 - [Unity Package Registry](https://openupm.com/packages/com.denis535.addressables-source-generator/)
+- [YouTube](https://youtu.be/JQobAqfakJQ)
 ### Colorful Project Window
 This package makes the project window much more convenient. This highlights the special folders (modules, assets, resources and sources) in different colors, thus making the project window easier to use.
 - [GitHub](https://github.com/Denis535/CleanArchitectureGameFramework/)
