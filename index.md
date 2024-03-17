@@ -12,21 +12,24 @@ This project is well designed game template allowing you to quickly and efficien
 ## Clean Architecture Game Framework (3 in 1)
 ### Clean Architecture Game Framework
 This package provides you with the architecture game framework that helping you to develop your project following the best practices (like Domain Driven Design, Clean Architecture and Uber Ribs).
-- [YouTube](https://youtu.be/JQobAqfakJQ)
+- [GitHub](https://github.com/Denis535/CleanArchitectureGameFramework/)
 - [Unity Package Registry](https://openupm.com/packages/com.denis535.clean-architecture-game-framework/)
+- [YouTube](https://youtu.be/JQobAqfakJQ)
 ### Addressables Source Generator
 This package is addition to Addressables giving you the ability to reference assets in a very convenient way.
+- [GitHub](https://github.com/Denis535/CleanArchitectureGameFramework/)
 - [YouTube](https://youtu.be/JQobAqfakJQ)
 - [Unity Package Registry](https://openupm.com/packages/com.denis535.addressables-source-generator/)
 ### Colorful Project Window
 This package makes the project window much more convenient. This highlights the special folders (modules, assets, resources and sources) in different colors, thus making the project window easier to use.
-- [YouTube](https://youtu.be/JQobAqfakJQ)
+- [GitHub](https://github.com/Denis535/CleanArchitectureGameFramework/)
 - [Unity Package Registry](https://openupm.com/packages/com.denis535.colorful-project-window/)
+- [YouTube](https://youtu.be/JQobAqfakJQ)
 
 ## UIToolkit Theme Style Sheet
 This package provides you with the beautiful UIToolkit theme style sheets and some additions and tools.
-- [YouTube](https://youtu.be/ZFo88k0nEEY)
 - [Unity Asset Store](https://assetstore.unity.com/packages/tools/gui/uitoolkit-theme-style-sheet-273463)
+- [YouTube](https://youtu.be/ZFo88k0nEEY)
 
 ## Linq.Next
 This is a useful addition to Linq.
