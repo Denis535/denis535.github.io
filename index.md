@@ -7,7 +7,6 @@ My name is Denis and I am a Unity programmer.
 ## Clean Architecture Game Template
 This project is well designed game template allowing you to quickly and efficiently start developing your project with the best practices (like Domain Driven Design, Clean Architecture and Uber Ribs).
 - [YouTube](https://youtu.be/Ht8Spckafw0)
-- [Example](https://drive.google.com/file/d/1NT22bUv8hOdmNAC4mfqGBTfosCLRbrKh/view?usp=drive_link)
 
 ## Clean Architecture Game Framework (3 in 1)
 ### Clean Architecture Game Framework
@@ -29,7 +28,7 @@ This package makes the project window much more convenient. This highlights the 
 ## UIToolkit Theme Style Sheet
 This package provides you with the beautiful UIToolkit theme style sheets and some additions and tools.
 - [Unity Asset Store](https://assetstore.unity.com/packages/tools/gui/uitoolkit-theme-style-sheet-273463)
-- [YouTube](https://youtu.be/ZFo88k0nEEY)
+- [YouTube](https://youtu.be/ggnuNOZXIlg?feature=shared)
 
 ## Linq.Next
 This is a useful addition to Linq.
