@@ -6,7 +6,7 @@ My name is Denis and I am a Unity programmer.
 # Portfolio
 ## Clean Architecture Game Template
 This project is well designed game template allowing you to quickly and efficiently start developing your project with the best practices (like Domain Driven Design, Clean Architecture and Uber Ribs).
-- [YouTube](https://youtu.be/Ht8Spckafw0)
+- [ITCH]([https://youtu.be/Ht8Spckafw0](https://denis535.itch.io/clean-architecture-game-template))
 
 ## Clean Architecture Game Framework (3 in 1)
 ### Clean Architecture Game Framework
