@@ -7,6 +7,7 @@ My name is Denis and I am a Unity programmer.
 ## Clean Architecture Game Template
 This project is well designed game template allowing you to quickly and efficiently start developing your project with the best practices (like Domain Driven Design, Clean Architecture and Uber Ribs).
 - [ITCH](https://denis535.itch.io/clean-architecture-game-template)
+- [YouTube](https://youtu.be/SJ8aB4fxgUo?feature=shared)
 
 ## Clean Architecture Game Framework (3 in 1)
 This project consist of 3 packages.
@@ -36,7 +37,7 @@ This is a useful addition to Linq.
 - [NuGet](https://www.nuget.org/packages/linq.next)
 
 # Links
-- [assetstore.unity.com](https://assetstore.unity.com/publishers/90787)
-- [itch.io](https://denis535.itch.io/)
-- [openupm.com](https://openupm.com/packages/?sort=downloads&q=denis535)
-- [youtube.com](https://www.youtube.com/channel/UCLFdZl0pFkCkHpDWmodBUFg)
+- [Unity Asset Store](https://assetstore.unity.com/publishers/90787)
+- [ITCH](https://denis535.itch.io/)
+- [Unity Package Registry](https://openupm.com/packages/?sort=downloads&q=denis535)
+- [YouTube](https://www.youtube.com/channel/UCLFdZl0pFkCkHpDWmodBUFg)
