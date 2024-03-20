@@ -9,6 +9,7 @@ This project is well designed game template allowing you to quickly and efficien
 - [ITCH](https://denis535.itch.io/clean-architecture-game-template)
 
 ## Clean Architecture Game Framework (3 in 1)
+This project consist of 3 packages.
 ### Clean Architecture Game Framework
 This package provides you with the architecture game framework that helping you to develop your project following the best practices (like Domain Driven Design, Clean Architecture and Uber Ribs).
 - [GitHub](https://github.com/Denis535/CleanArchitectureGameFramework/)
