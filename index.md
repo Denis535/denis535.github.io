@@ -1,7 +1,7 @@
 # Introduction
 ![Logo](https://raw.githubusercontent.com/Denis535/denis535.github.io/main/Icon%20160x160.png)
 
-My name is Denis and I am a Unity programmer.
+My name is Denis and I am a C# and Unity programmer.
 
 # Portfolio
 ## Clean Architecture Game Template
@@ -9,19 +9,19 @@ This project is well designed game template allowing you to quickly and efficien
 - [ITCH](https://denis535.itch.io/clean-architecture-game-template)
 - [YouTube](https://youtu.be/SJ8aB4fxgUo?feature=shared)
 
-## Clean Architecture Game Framework (3 in 1)
-This project consist of 3 packages.
-### Clean Architecture Game Framework
+## Clean Architecture Game Framework
 This package provides you with the architecture game framework that helping you to develop your project following the best practices (like Domain Driven Design, Clean Architecture and Uber Ribs).
 - [GitHub](https://github.com/Denis535/CleanArchitectureGameFramework/)
 - [Unity Package Registry](https://openupm.com/packages/com.denis535.clean-architecture-game-framework/)
 - [YouTube](https://youtu.be/JQobAqfakJQ)
-### Addressables Source Generator
+
+## Addressables Source Generator
 This package is addition to Addressables giving you the ability to reference assets in a very convenient way.
 - [GitHub](https://github.com/Denis535/CleanArchitectureGameFramework/)
 - [Unity Package Registry](https://openupm.com/packages/com.denis535.addressables-source-generator/)
 - [YouTube](https://youtu.be/JQobAqfakJQ)
-### Colorful Project Window
+
+## Colorful Project Window
 This package makes the project window much more convenient. This highlights the special folders (modules, assets, resources and sources) in different colors, thus making the project window easier to use.
 - [GitHub](https://github.com/Denis535/CleanArchitectureGameFramework/)
 - [Unity Package Registry](https://openupm.com/packages/com.denis535.colorful-project-window/)
