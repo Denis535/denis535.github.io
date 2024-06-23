@@ -47,8 +47,8 @@ The assertion library with a very convenient fluent interface.
 - [NuGet](https://www.nuget.org/packages/Assert.Kind.Message.Condition)
 
 # Links
-- [Unity Asset Store](https://assetstore.unity.com/publishers/90787)
-- [ITCH](https://denis535.itch.io/)
 - [NuGet](https://www.nuget.org/profiles/Denis535)
 - [Unity Package Registry](https://openupm.com/packages/?sort=downloads&q=denis535)
+- [Unity Asset Store](https://assetstore.unity.com/publishers/90787)
+- [ITCH](https://denis535.itch.io/)
 - [YouTube](https://www.youtube.com/channel/UCLFdZl0pFkCkHpDWmodBUFg)
