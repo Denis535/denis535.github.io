@@ -4,10 +4,9 @@
 My name is Denis and I am a C# and Unity programmer.
 
 # Portfolio
-## Clean Architecture Game Template
-This project is well designed game template allowing you to quickly and efficiently start developing your project with the best practices (like Domain Driven Design, Clean Architecture and Uber Ribs).
-- [ITCH](https://denis535.itch.io/clean-architecture-game-template)
-- [YouTube](https://youtu.be/SJ8aB4fxgUo?feature=shared)
+## Clean Game Example
+This is example of a Unity 3D project (shooter game) with advanced (professional) architecture (inspired by Clean Architecture, Domain Driven Design and Uber Ribs).
+- [YouTube]([https://youtu.be/SJ8aB4fxgUo?feature=shared](https://youtu.be/WmLJHRg0EI4))
 
 ## Clean Architecture Game Framework
 This package provides you with the architecture game framework that helping you to develop your project following the best practices (like Domain Driven Design, Clean Architecture and Uber Ribs).
