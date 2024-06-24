@@ -5,7 +5,7 @@ My name is Denis and I am a C# and Unity programmer.
 
 # Portfolio
 ## Clean Game Example
-This is example of a Unity 3D project (shooter game) with advanced (professional) architecture (inspired by Clean Architecture, Domain Driven Design and Uber Ribs).
+This is example of a Unity 3D shooter game project with advanced (professional) architecture (inspired by Clean Architecture, Domain Driven Design and Uber Ribs).
 - [YouTube]([https://youtu.be/SJ8aB4fxgUo?feature=shared](https://youtu.be/WmLJHRg0EI4))
 
 ## Clean Architecture Game Framework
