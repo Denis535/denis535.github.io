@@ -5,7 +5,7 @@ My name is Denis and I am a C# and Unity programmer.
 
 # Portfolio
 ## Clean Game Example
-This is example of a Unity 3D shooter game project with advanced (professional) architecture (inspired by Clean Architecture, Domain Driven Design and Uber Ribs).
+This is example of a Unity shooter game project with advanced architecture (inspired by Clean Architecture, Domain-Driven Design and State-Driven UI).
 - [Habr](https://habr.com/ru/articles/833532/)
 - [GitHub](https://github.com/denis535/CleanGameExample)
 - [YouTube](https://youtu.be/WmLJHRg0EI4)
@@ -39,13 +39,17 @@ This package provides you with the beautiful UIToolkit theme style sheets and so
 - [Unity Asset Store](https://assetstore.unity.com/packages/tools/gui/uitoolkit-theme-style-sheet-273463)
 - [YouTube](https://youtu.be/ggnuNOZXIlg?feature=shared)
 
-## Linq.Next
-This is a useful addition to Linq.
-- [NuGet](https://www.nuget.org/packages/linq.next)
+## Option.Pro
+The Option is a value container (like Nullable) which may have some value or have nothing.
+- [NuGet](https://www.nuget.org/packages/Option.Pro)
 
 ## Assert.Kind.Message.Condition
 The assertion library with a very convenient fluent interface.
 - [NuGet](https://www.nuget.org/packages/Assert.Kind.Message.Condition)
+
+## Linq.Next
+This is a useful addition to Linq.
+- [NuGet](https://www.nuget.org/packages/linq.next)
 
 # Links
 - [NuGet](https://www.nuget.org/profiles/Denis535)
