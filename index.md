@@ -1,6 +1,4 @@
 # Introduction
-![Logo](https://raw.githubusercontent.com/Denis535/denis535.github.io/main/Icon%20160x160.png)
-
 My name is Denis and I am a C# and Unity programmer.
 
 # Portfolio
