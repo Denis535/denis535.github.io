@@ -1,5 +1,5 @@
 # Introduction
-My name is Denis and I am a C# and Unity programmer.
+My name is Denis and I am a .Net and Unity programmer.
 
 # Portfolio
 ## Clean Game Example (Unity)
