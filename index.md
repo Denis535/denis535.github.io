@@ -35,7 +35,7 @@ This package provides you with the beautiful UIToolkit theme style sheets and so
 - [Unity Asset Store](https://assetstore.unity.com/packages/tools/gui/uitoolkit-theme-style-sheet-273463)
 
 # .Net Portfolio
-## Hierarchical Tree Machine (.Net)
+## HierarchicalTreeMachine (.Net)
 The library for implementation of advanced hierarchical tree structure.
 - [NuGet](https://www.nuget.org/packages/HierarchicalTreeMachine)
 
