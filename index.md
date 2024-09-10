@@ -1,7 +1,7 @@
 # Introduction
 My name is Denis and I am a .Net and Unity programmer.
 
-# Unity Portfolio
+# Unity Projects
 ## Clean Game Example (Unity)
 This is example of a Unity shooter game project with advanced architecture (inspired by Clean Architecture, Domain-Driven Design and State-Driven UI).
 - [GitHub](https://github.com/denis535/CleanGameExample)
@@ -34,8 +34,8 @@ This package provides you with the beautiful UIToolkit theme style sheets and so
 - [GitHub](https://github.com/Denis535/UIToolkitThemeStyleSheet)
 - [Unity Asset Store](https://assetstore.unity.com/packages/tools/gui/uitoolkit-theme-style-sheet-273463)
 
-# .Net Portfolio
-## HierarchicalTreeMachine (.Net)
+# .Net Projects
+## Hierarchical Tree Machine (.Net)
 The library for implementation of advanced hierarchical tree structure.
 - [NuGet](https://www.nuget.org/packages/HierarchicalTreeMachine)
 
@@ -53,7 +53,7 @@ The Option is a value container (like Nullable) which may have some value or hav
 
 # Links
 - [YouTube](https://www.youtube.com/channel/UCLFdZl0pFkCkHpDWmodBUFg)
-- [Unity Package Registry](https://openupm.com/packages/?sort=downloads&q=denis535)
 - [NuGet](https://www.nuget.org/profiles/Denis535)
+- [Unity Package Registry](https://openupm.com/packages/?sort=downloads&q=denis535)
 - [Unity Asset Store](https://assetstore.unity.com/publishers/90787)
 - [ITCH](https://denis535.itch.io/)
