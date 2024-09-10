@@ -2,52 +2,53 @@
 My name is Denis and I am a C# and Unity programmer.
 
 # Portfolio
-## Clean Game Example
+## Clean Game Example (Unity)
 This is example of a Unity shooter game project with advanced architecture (inspired by Clean Architecture, Domain-Driven Design and State-Driven UI).
-- [Habr](https://habr.com/ru/articles/833532/)
 - [GitHub](https://github.com/denis535/CleanGameExample)
 - [YouTube](https://youtu.be/WmLJHRg0EI4)
+- [Habr](https://habr.com/ru/articles/833532/)
 
-## Clean Architecture Game Framework
+## Clean Architecture Game Framework (Unity)
 This package provides you with the architecture game framework that helping you to develop your project following the best practices (like Domain Driven Design, Clean Architecture and Uber Ribs).
 - [GitHub](https://github.com/Denis535/CleanArchitectureGameFramework/)
 - [Unity Package Registry](https://openupm.com/packages/com.denis535.clean-architecture-game-framework/)
 - [YouTube](https://youtu.be/JQobAqfakJQ)
 
-## Addressables Extensions
+## Addressables Extensions (Unity)
 This package is addition to Addressables giving you the ability to manage your assets in more convenient way.
 - [GitHub](https://github.com/Denis535/CleanArchitectureGameFramework/)
 - [Unity Package Registry](https://openupm.com/packages/com.denis535.addressables-extensions/)
-- [YouTube](https://youtu.be/JQobAqfakJQ)
 
-## Addressables Source Generator
+## Addressables Source Generator (Unity)
 This package is addition to Addressables giving you the ability to reference assets in a very convenient way.
 - [GitHub](https://github.com/Denis535/CleanArchitectureGameFramework/)
 - [Unity Package Registry](https://openupm.com/packages/com.denis535.addressables-source-generator/)
-- [YouTube](https://youtu.be/JQobAqfakJQ)
 
-## Colorful Project Window
+## Colorful Project Window (Unity)
 This package makes the project window much more convenient. This highlights the special folders (modules, assets, resources and sources) in different colors, thus making the project window easier to use.
 - [GitHub](https://github.com/Denis535/CleanArchitectureGameFramework/)
 - [Unity Package Registry](https://openupm.com/packages/com.denis535.colorful-project-window/)
-- [YouTube](https://youtu.be/JQobAqfakJQ)
 
-## UIToolkit Theme Style Sheet
+## UIToolkit Theme Style Sheet (Unity)
 This package provides you with the beautiful UIToolkit theme style sheets and some additions and tools.
+- [GitHub](https://github.com/Denis535/UIToolkitThemeStyleSheet)
 - [Unity Asset Store](https://assetstore.unity.com/packages/tools/gui/uitoolkit-theme-style-sheet-273463)
-- [YouTube](https://youtu.be/ggnuNOZXIlg?feature=shared)
 
-## Option.Pro
-The Option is a value container (like Nullable) which may have some value or have nothing.
-- [NuGet](https://www.nuget.org/packages/Option.Pro)
+## Hierarchical Tree Machine (.Net)
+The library for implementation of advanced hierarchical tree structure.
+- [NuGet](https://www.nuget.org/packages/HierarchicalTreeMachine)
 
-## Assert.Kind.Message.Condition
+## Linq.Next (.Net)
+This is a useful addition to Linq.
+- [NuGet](https://www.nuget.org/packages/linq.next)
+
+## Assert.Kind.Message.Condition (.Net)
 The assertion library with a very convenient fluent interface.
 - [NuGet](https://www.nuget.org/packages/Assert.Kind.Message.Condition)
 
-## Linq.Next
-This is a useful addition to Linq.
-- [NuGet](https://www.nuget.org/packages/linq.next)
+## Option.Pro (.Net)
+The Option is a value container (like Nullable) which may have some value or have nothing.
+- [NuGet](https://www.nuget.org/packages/Option.Pro)
 
 # Links
 - [NuGet](https://www.nuget.org/profiles/Denis535)
