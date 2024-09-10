@@ -51,8 +51,8 @@ The Option is a value container (like Nullable) which may have some value or hav
 - [NuGet](https://www.nuget.org/packages/Option.Pro)
 
 # Links
-- [NuGet](https://www.nuget.org/profiles/Denis535)
+- [YouTube](https://www.youtube.com/channel/UCLFdZl0pFkCkHpDWmodBUFg)
 - [Unity Package Registry](https://openupm.com/packages/?sort=downloads&q=denis535)
+- [NuGet](https://www.nuget.org/profiles/Denis535)
 - [Unity Asset Store](https://assetstore.unity.com/publishers/90787)
 - [ITCH](https://denis535.itch.io/)
-- [YouTube](https://www.youtube.com/channel/UCLFdZl0pFkCkHpDWmodBUFg)
