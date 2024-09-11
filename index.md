@@ -1,4 +1,4 @@
-![Logo]([http://url/to/img.png](https://raw.githubusercontent.com/Denis535/denis535.github.io/main/Icon.png))
+![Logo](Icon.png))
 
 # Introduction
 My name is Denis and I am a .Net and Unity programmer.
