@@ -1,3 +1,5 @@
+![Logo]([http://url/to/img.png](https://raw.githubusercontent.com/Denis535/denis535.github.io/main/Icon.png))
+
 # Introduction
 My name is Denis and I am a .Net and Unity programmer.
 
@@ -35,7 +37,11 @@ This package provides you with the beautiful UIToolkit theme style sheets and so
 - [Unity Asset Store](https://assetstore.unity.com/packages/tools/gui/uitoolkit-theme-style-sheet-273463)
 
 # .Net Projects
-## Hierarchical Tree Machine (.Net)
+## StateMachine.Pro (.Net)
+The library for implementation of stateful object.
+- [NuGet](https://www.nuget.org/packages/StateMachine.Pro)
+
+## HierarchicalTreeMachine (.Net)
 The library for implementation of advanced hierarchical tree structure.
 - [NuGet](https://www.nuget.org/packages/HierarchicalTreeMachine)
 
