@@ -1,4 +1,4 @@
-![Logo](Icon.png))
+![Logo](Logo.png))
 
 # Introduction
 My name is Denis and I am a .Net and Unity programmer.
