@@ -4,8 +4,8 @@
 My name is Denis and I am a .Net and Unity programmer.
 
 # Unity Projects
-## Clean Game Example (Unity)
-This is example of a Unity shooter game project with advanced architecture (inspired by Clean Architecture, Domain-Driven Design and State-Driven UI).
+## Shooter Game Example (Unity)
+This is example of a Unity shooter game project with quality architecture (inspired by Clean Architecture, Domain-Driven Design and State-Driven UI).
 - [GitHub](https://github.com/denis535/CleanGameExample)
 - [YouTube](https://youtu.be/WmLJHRg0EI4)
 - [Habr](https://habr.com/ru/articles/833532/)
