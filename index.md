@@ -10,23 +10,23 @@ This is example of a Unity shooter game project with quality architecture.
 - [Habr](https://habr.com/ru/articles/833532/)
 
 # Unity Framework
-## Clean Architecture Game Framework (Unity)
+###### Clean Architecture Game Framework (Unity)
 This package provides you with the architecture game framework that helping you to develop your project following the best practices.
 - [GitHub](https://github.com/Denis535/UnityFramework/)
 - [Unity Package Registry](https://openupm.com/packages/com.denis535.clean-architecture-game-framework/)
 - [YouTube](https://youtu.be/JQobAqfakJQ)
 
-## Addressables Extensions (Unity)
+###### Addressables Extensions (Unity)
 This package is addition to Addressables giving you the ability to manage your assets in more convenient way.
 - [GitHub](https://github.com/Denis535/UnityFramework/)
 - [Unity Package Registry](https://openupm.com/packages/com.denis535.addressables-extensions/)
 
-## Addressables Source Generator (Unity)
+###### Addressables Source Generator (Unity)
 This package is addition to Addressables giving you the ability to reference assets in a very convenient way.
 - [GitHub](https://github.com/Denis535/UnityFramework/)
 - [Unity Package Registry](https://openupm.com/packages/com.denis535.addressables-source-generator/)
 
-## Colorful Project Window (Unity)
+###### Colorful Project Window (Unity)
 This package makes the project window much more convenient. This highlights the special folders (modules, assets, resources and sources) in different colors, thus making the project window easier to use.
 - [GitHub](https://github.com/Denis535/UnityFramework/)
 - [Unity Package Registry](https://openupm.com/packages/com.denis535.colorful-project-window/)
