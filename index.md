@@ -37,7 +37,7 @@ This package provides you with the beautiful UIToolkit theme style sheets and so
 
 # Terra Voxel (Unity)
 The MineCraft like Unity voxel engine.
-- [YouTube](https://youtu.be/aZpqF4c-w3o)
+- [YouTube](https://youtube.com/playlist?list=PLCBvBw9keXRP7-GIVQt0qIsFRGGDIwvJV)
 
 # Option Pro (.Net)
 The Option is a value container (like Nullable) which may have some value or have nothing.
