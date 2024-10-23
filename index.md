@@ -7,7 +7,6 @@ My name is Denis and I am a .Net and Unity programmer.
 This is example of a Unity shooter game project with quality architecture.
 - [GitHub](https://github.com/Denis535/UnityShooterExample)
 - [YouTube](https://youtu.be/WmLJHRg0EI4)
-- [Habr](https://habr.com/ru/articles/833532/)
 
 # Unity Framework
 ###### Clean Architecture Game Framework (Unity)
@@ -36,6 +35,10 @@ This package provides you with the beautiful UIToolkit theme style sheets and so
 - [GitHub](https://github.com/Denis535/UIToolkitThemeStyleSheet)
 - [Unity Asset Store](https://assetstore.unity.com/packages/tools/gui/uitoolkit-theme-style-sheet-273463)
 
+# Terra Voxel (Unity)
+The MineCraft like Unity voxel engine.
+- [YouTube](https://youtu.be/aZpqF4c-w3o)
+
 # Option Pro (.Net)
 The Option is a value container (like Nullable) which may have some value or have nothing.
 - [NuGet](https://www.nuget.org/packages/Option.Pro)
@@ -55,6 +58,10 @@ The library for implementation of advanced hierarchical tree structure.
 # Linq Next (.Net)
 This is a useful addition to Linq.
 - [NuGet](https://www.nuget.org/packages/linq.next)
+
+# Articles And Tutorials
+- [Unity_Character_Motor](https://gamedev.ru/unity/articles/Unity_Character_Motor)
+- [Лучшие практики для Unity 3D проекта](https://habr.com/ru/articles/833532/)
 
 # Links
 - [NuGet](https://www.nuget.org/profiles/Denis535)
