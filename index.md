@@ -60,7 +60,7 @@ This is a useful addition to Linq.
 - [NuGet](https://www.nuget.org/packages/linq.next)
 
 # Articles And Tutorials
-- [Unity_Character_Motor](https://gamedev.ru/unity/articles/Unity_Character_Motor)
+- [Unity Character Motor](https://gamedev.ru/unity/articles/Unity_Character_Motor)
 - [Лучшие практики для Unity 3D проекта](https://habr.com/ru/articles/833532/)
 
 # Links
