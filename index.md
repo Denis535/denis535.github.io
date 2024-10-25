@@ -68,5 +68,6 @@ This is a useful addition to Linq.
 - [NuGet](https://www.nuget.org/profiles/Denis535)
 - [Unity Package Registry](https://openupm.com/packages/?sort=downloads&q=denis535)
 - [Unity Asset Store](https://assetstore.unity.com/publishers/90787)
+- [Fab](https://www.fab.com/sellers/Denis535)
 - [ITCH](https://denis535.itch.io/)
 - [YouTube](https://www.youtube.com/channel/UCLFdZl0pFkCkHpDWmodBUFg)
