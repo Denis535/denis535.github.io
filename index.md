@@ -60,9 +60,10 @@ The library for implementation of advanced hierarchical tree structure.
 This is a useful addition to Linq.
 - [NuGet](https://www.nuget.org/packages/linq.next)
 
-# Articles And Tutorials
+# Tutorials
 - [Unity Character Motor](https://gamedev.ru/unity/articles/Unity_Character_Motor)
 - [Лучшие практики для Unity 3D проекта](https://habr.com/ru/articles/833532/)
+- [Шутер от третьего лица (пример профессиональной архитектуры)](https://www.udemy.com/course/szfztcwd)
 
 # Links
 - [NuGet](https://www.nuget.org/profiles/Denis535)
@@ -70,4 +71,5 @@ This is a useful addition to Linq.
 - [Unity Asset Store](https://assetstore.unity.com/publishers/90787)
 - [Fab](https://www.fab.com/sellers/Denis535)
 - [ITCH](https://denis535.itch.io/)
+- [Udemy](https://www.udemy.com/user/denis-84102)
 - [YouTube](https://www.youtube.com/channel/UCLFdZl0pFkCkHpDWmodBUFg)
