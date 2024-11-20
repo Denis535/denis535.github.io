@@ -49,16 +49,16 @@ The assertion library with a very convenient fluent interface.
 - [NuGet](https://www.nuget.org/packages/Assert.Kind.Message.Condition)
 
 ###### State Machine Pro (.Net)
-The library for implementation of stateful object.
+The library that helps you implement a stateful object.
 - [NuGet](https://www.nuget.org/packages/StateMachine.Pro)
 
-###### Hierarchical Tree Machine (.Net)
-The library for implementation of advanced hierarchical tree structure.
-- [NuGet](https://www.nuget.org/packages/HierarchicalTreeMachine)
+###### Tree Machine Pro (.Net)
+The library that helps you implement a tree structure.
+- [NuGet](https://www.nuget.org/packages/TreeMachine.Pro)
 
 ###### Linq Next (.Net)
 This is a useful addition to Linq.
-- [NuGet](https://www.nuget.org/packages/linq.next)
+- [NuGet](https://www.nuget.org/packages/Linq.Next)
 
 # Tutorials
 - [Unity Character Motor](https://gamedev.ru/unity/articles/Unity_Character_Motor)
