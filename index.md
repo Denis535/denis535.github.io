@@ -7,6 +7,7 @@ My name is Denis and I am a .Net and Unity programmer.
 ###### Unity Shooter Example
 This is an example of a Unity shooter game project with quality architecture.
 - [GitHub](https://github.com/Denis535/UnityShooterExample)
+- [Unity Asset store](https://u3d.as/3pWS)
 - [YouTube](https://youtu.be/sfkF_tLaoOk)
 
 ###### Clean Architecture Game Framework (Unity)
