@@ -9,6 +9,7 @@ This is an example of a Unity shooter game project with quality architecture.
 - [GitHub](https://github.com/Denis535/UnityShooterExample)
 - [Unity Asset store](https://u3d.as/3pWS)
 - [YouTube](https://youtu.be/sfkF_tLaoOk)
+- [Video Tutorial](https://www.udemy.com/user/denis-84102)
 
 ###### Clean Architecture Game Framework (Unity)
 This package provides you with the architecture game framework that helping you to develop your project following the best practices.
