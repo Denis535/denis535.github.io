@@ -43,6 +43,10 @@ The MineCraft like Unity voxel engine.
 - [YouTube](https://youtube.com/playlist?list=PLCBvBw9keXRP7-GIVQt0qIsFRGGDIwvJV)
 
 # .Net
+###### Net Extensions (.Net)
+Option.Pro, Assert.Kind.Message.Condition, FluentInterface.Pro, Valuable.Pro, Enumerable.Pro, Linq.Next.
+- [GitHub](https://github.com/denis535/Net.Extensions)
+
 ###### Option Pro (.Net)
 The Option is a value container (like Nullable) which may have some value or have nothing.
 - [NuGet](https://www.nuget.org/packages/Option.Pro)
