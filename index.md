@@ -7,7 +7,7 @@ My name is Denis and I am a .Net and Unity programmer.
 ###### Unity Shooter Example
 This is an example of a Unity shooter game project with quality architecture.
 - [GitHub](https://github.com/Denis535/UnityShooterExample)
-- [Fab](https://www.fab.com/portal/listings/aefd1e89-d2f3-4dc2-95fb-5b6d5793e366)
+- [Fab](https://www.fab.com/listings/ce815185-13df-4580-826f-5ef5ed598077)
 - [Unity Asset store](https://u3d.as/3pWS)
 - [YouTube](https://youtu.be/sfkF_tLaoOk)
 - [Video Tutorial](https://www.udemy.com/user/denis-84102)
