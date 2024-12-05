@@ -57,9 +57,11 @@ The MineCraft like Unity voxel engine.
 
 ###### Valuable Pro (.Net)
 - [GitHub](https://github.com/denis535/DotNet.Extensions)
+- [NuGet](https://www.nuget.org/packages/Valuable.Pro)
 
 ###### Enumerable Pro (.Net)
 - [GitHub](https://github.com/denis535/DotNet.Extensions)
+- [NuGet](https://www.nuget.org/packages/Enumerable.Pro)
 
 ###### Linq Next (.Net)
 - [GitHub](https://github.com/denis535/DotNet.Extensions)
