@@ -44,7 +44,12 @@ The MineCraft like Unity voxel engine.
 
 # .Net
 ###### Net Extensions (.Net)
-Option.Pro, Assert.Kind.Message.Condition, FluentInterface.Pro, Valuable.Pro, Enumerable.Pro, Linq.Next.
+- Assert.Kind.Message.Condition
+- Option.Pro
+- FluentSyntax.Pro
+- Valuable.Pro
+- Enumerable.Pro
+- Linq.Next
 - [GitHub](https://github.com/denis535/Net.Extensions)
 
 ###### Option Pro (.Net)
