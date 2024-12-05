@@ -42,35 +42,35 @@ This package provides you with the beautiful UIToolkit theme style sheets and so
 The MineCraft like Unity voxel engine.
 - [YouTube](https://youtube.com/playlist?list=PLCBvBw9keXRP7-GIVQt0qIsFRGGDIwvJV)
 
-# Net Extensions
+# .Net Extensions
 ###### Assert Kind Message Condition (.Net)
-- [GitHub](https://github.com/denis535/Net.Extensions)
+- [GitHub](https://github.com/denis535/DotNet.Extensions)
 - [NuGet](https://www.nuget.org/packages/Assert.Kind.Message.Condition)
 
 ###### Option Pro (.Net)
-- [GitHub](https://github.com/denis535/Net.Extensions)
+- [GitHub](https://github.com/denis535/DotNet.Extensions)
 - [NuGet](https://www.nuget.org/packages/Option.Pro)
 
 ###### Fluent Syntax Pro (.Net)
-- [GitHub](https://github.com/denis535/Net.Extensions)
+- [GitHub](https://github.com/denis535/DotNet.Extensions)
 - [NuGet](https://www.nuget.org/packages/Net.Extensions)
 
 ###### Valuable Pro (.Net)
-- [GitHub](https://github.com/denis535/Net.Extensions)
+- [GitHub](https://github.com/denis535/DotNet.Extensions)
 
 ###### Enumerable Pro (.Net)
-- [GitHub](https://github.com/denis535/Net.Extensions)
+- [GitHub](https://github.com/denis535/DotNet.Extensions)
 
 ###### Linq Next (.Net)
-- [GitHub](https://github.com/denis535/Net.Extensions)
+- [GitHub](https://github.com/denis535/DotNet.Extensions)
 - [NuGet](https://www.nuget.org/packages/Linq.Next)
 
 ###### State Machine Pro (.Net)
-- [GitHub](https://github.com/denis535/Net.Extensions)
+- [GitHub](https://github.com/denis535/DotNet.Extensions)
 - [NuGet](https://www.nuget.org/packages/StateMachine.Pro)
 
 ###### Tree Machine Pro (.Net)
-- [GitHub](https://github.com/denis535/Net.Extensions)
+- [GitHub](https://github.com/denis535/DotNet.Extensions)
 - [NuGet](https://www.nuget.org/packages/TreeMachine.Pro)
 
 # Tutorials
