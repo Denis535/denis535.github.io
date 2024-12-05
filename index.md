@@ -43,25 +43,25 @@ The MineCraft like Unity voxel engine.
 - [YouTube](https://youtube.com/playlist?list=PLCBvBw9keXRP7-GIVQt0qIsFRGGDIwvJV)
 
 # Net Extensions
-###### Assert.Kind.Message.Condition (.Net)
+###### Assert Kind Message Condition (.Net)
 - [GitHub](https://github.com/denis535/Net.Extensions)
 - [NuGet](https://www.nuget.org/packages/Assert.Kind.Message.Condition)
 
-###### Option.Pro (.Net)
+###### Option Pro (.Net)
 - [GitHub](https://github.com/denis535/Net.Extensions)
 - [NuGet](https://www.nuget.org/packages/Option.Pro)
 
-###### FluentSyntax.Pro (.Net)
+###### Fluent Syntax Pro (.Net)
 - [GitHub](https://github.com/denis535/Net.Extensions)
 - [NuGet](https://www.nuget.org/packages/Net.Extensions)
 
-###### Valuable.Pro (.Net)
+###### Valuable Pro (.Net)
 - [GitHub](https://github.com/denis535/Net.Extensions)
 
-###### Enumerable.Pro (.Net)
+###### Enumerable Pro (.Net)
 - [GitHub](https://github.com/denis535/Net.Extensions)
 
-###### Linq.Next (.Net)
+###### Linq Next (.Net)
 - [GitHub](https://github.com/denis535/Net.Extensions)
 - [NuGet](https://www.nuget.org/packages/Linq.Next)
 
