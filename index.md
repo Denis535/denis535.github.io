@@ -3,8 +3,7 @@
 # Introduction
 My name is Denis and I am a .Net and Unity programmer.
 
-# Unity
-###### Unity Shooter Example
+# Unity Shooter Example
 This is an example of a Unity shooter game project with quality architecture.
 - [GitHub](https://github.com/Denis535/UnityShooterExample)
 - [Fab](https://www.fab.com/listings/ce815185-13df-4580-826f-5ef5ed598077)
@@ -12,6 +11,7 @@ This is an example of a Unity shooter game project with quality architecture.
 - [YouTube](https://youtu.be/sfkF_tLaoOk)
 - [Video Tutorial](https://www.udemy.com/user/denis-84102)
 
+# Unity Framework
 ###### Clean Architecture Game Framework (Unity)
 This package provides you with the architecture game framework that helping you to develop your project following the best practices.
 - [GitHub](https://github.com/Denis535/UnityFramework/)
@@ -38,39 +38,40 @@ This package provides you with the beautiful UIToolkit theme style sheets and so
 - [GitHub](https://github.com/Denis535/UIToolkitThemeStyleSheet)
 - [Unity Asset Store](https://assetstore.unity.com/packages/tools/gui/uitoolkit-theme-style-sheet-273463)
 
-###### Terra Voxel Engine (Unity)
+# Terra Voxel Engine (Unity)
 The MineCraft like Unity voxel engine.
 - [YouTube](https://youtube.com/playlist?list=PLCBvBw9keXRP7-GIVQt0qIsFRGGDIwvJV)
 
-# .Net
-###### Net Extensions (.Net)
-- Assert.Kind.Message.Condition
-- Option.Pro
-- FluentSyntax.Pro
-- Valuable.Pro
-- Enumerable.Pro
-- Linq.Next
+# Net Extensions
+###### Assert.Kind.Message.Condition (.Net)
 - [GitHub](https://github.com/denis535/Net.Extensions)
-
-###### Option Pro (.Net)
-The Option is a value container (like Nullable) which may have some value or have nothing.
-- [NuGet](https://www.nuget.org/packages/Option.Pro)
-
-###### Assert Kind Message Condition (.Net)
-The assertion library with a very convenient fluent interface.
 - [NuGet](https://www.nuget.org/packages/Assert.Kind.Message.Condition)
 
+###### Option.Pro (.Net)
+- [GitHub](https://github.com/denis535/Net.Extensions)
+- [NuGet](https://www.nuget.org/packages/Option.Pro)
+
+###### FluentSyntax.Pro (.Net)
+- [GitHub](https://github.com/denis535/Net.Extensions)
+- [NuGet](https://www.nuget.org/packages/Net.Extensions)
+
+###### Valuable.Pro (.Net)
+- [GitHub](https://github.com/denis535/Net.Extensions)
+
+###### Enumerable.Pro (.Net)
+- [GitHub](https://github.com/denis535/Net.Extensions)
+
+###### Linq.Next (.Net)
+- [GitHub](https://github.com/denis535/Net.Extensions)
+- [NuGet](https://www.nuget.org/packages/Linq.Next)
+
 ###### State Machine Pro (.Net)
-The library that helps you implement a stateful object.
+- [GitHub](https://github.com/denis535/Net.Extensions)
 - [NuGet](https://www.nuget.org/packages/StateMachine.Pro)
 
 ###### Tree Machine Pro (.Net)
-The library that helps you implement a tree structure.
+- [GitHub](https://github.com/denis535/Net.Extensions)
 - [NuGet](https://www.nuget.org/packages/TreeMachine.Pro)
-
-###### Linq Next (.Net)
-This is a useful addition to Linq.
-- [NuGet](https://www.nuget.org/packages/Linq.Next)
 
 # Tutorials
 - [Unity Character Motor](https://gamedev.ru/unity/articles/Unity_Character_Motor)
