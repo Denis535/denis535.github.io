@@ -75,6 +75,13 @@ The MineCraft like Unity voxel engine.
 - [GitHub](https://github.com/denis535/StateMachine.Pr)
 - [NuGet](https://www.nuget.org/packages/TreeMachine.Pro)
 
+# Snapshot.Pro
+This is a Visual Studio extension that allows you to take a (image / video) snapshot of the entire window.
+To take an image snapshot, execute the 'Tools/Take Image Snapshot' command.
+To take a video snapshot, execute the 'Tools/Take Video Snapshot' command.
+The video sample: https://youtu.be/lkr5mEreT70
+- [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=Denis535.Snapshot-Pro)
+
 # Tutorials
 - [Unity Character Motor](https://gamedev.ru/unity/articles/Unity_Character_Motor)
 - [Лучшие практики для Unity 3D проекта](https://habr.com/ru/articles/833532/)
