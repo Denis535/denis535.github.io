@@ -8,15 +8,14 @@ This is an example of a Unity shooter game project with quality architecture.
 - [GitHub](https://github.com/Denis535/UnityShooterExample)
 - [Fab](https://www.fab.com/listings/ce815185-13df-4580-826f-5ef5ed598077)
 - [Unity Asset store](https://u3d.as/3pWS)
-- [YouTube](https://youtu.be/sfkF_tLaoOk)
-- [Video Tutorial](https://www.udemy.com/user/denis-84102)
+- [YouTube](https://youtu.be/6c6fEBK3HwE)
 
 # Unity Framework
 ###### Clean Architecture Game Framework (Unity)
 This package provides you with the architecture game framework that helping you to develop your project following the best practices.
 - [GitHub](https://github.com/Denis535/UnityFramework/)
 - [Unity Package Registry](https://openupm.com/packages/com.denis535.clean-architecture-game-framework/)
-- [YouTube](https://youtu.be/JQobAqfakJQ)
+- [YouTube](https://youtu.be/6c6fEBK3HwE)
 
 ###### Addressables Extensions (Unity)
 This package is addition to Addressables giving you the ability to manage your assets in more convenient way.
