@@ -71,7 +71,7 @@ The MineCraft like Unity voxel engine.
 - [NuGet](https://www.nuget.org/packages/StateMachine.Pro)
 
 # Tree Machine Pro (.Net)
-- [GitHub](https://github.com/denis535/StateMachine.Pro)
+- [GitHub](https://github.com/denis535/TreeMachine.Pro)
 - [NuGet](https://www.nuget.org/packages/TreeMachine.Pro)
 
 # Snapshot.Pro
