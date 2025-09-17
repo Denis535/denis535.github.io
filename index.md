@@ -41,10 +41,10 @@ This is an example of a Unity shooter game project with quality architecture.
 - [Unity Asset store](https://u3d.as/3pWS)
 - [YouTube](https://youtu.be/6c6fEBK3HwE)
 
-###### Clean Architecture Game Framework (Unity)
+###### Game Framework Pro (Unity)
 This package provides you with the architecture game framework that helping you to develop your project following the best practices.
 - [GitHub](https://github.com/Denis535/UnityFramework/)
-- [Unity Package Registry](https://openupm.com/packages/com.denis535.clean-architecture-game-framework/)
+- [Unity Package Registry](https://openupm.com/packages/com.denis535.game-framework-pro/)
 - [YouTube](https://youtu.be/6c6fEBK3HwE)
 
 ###### Addressables Extensions (Unity)
