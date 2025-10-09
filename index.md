@@ -9,14 +9,6 @@
 - [GitHub](https://github.com/denis535/DotNet.Extensions)
 - [NuGet](https://www.nuget.org/packages/Option.Pro)
 
-###### Valuable.Pro (.Net)
-- [GitHub](https://github.com/denis535/DotNet.Extensions)
-- [NuGet](https://www.nuget.org/packages/Valuable.Pro)
-
-###### Enumerable.Pro (.Net)
-- [GitHub](https://github.com/denis535/DotNet.Extensions)
-- [NuGet](https://www.nuget.org/packages/Enumerable.Pro)
-
 ###### Linq.Next (.Net)
 - [GitHub](https://github.com/denis535/DotNet.Extensions)
 - [NuGet](https://www.nuget.org/packages/Linq.Next)
@@ -79,15 +71,18 @@ To take a video snapshot, execute the 'Tools/Take Video Snapshot' command.
 The video sample: https://youtu.be/lkr5mEreT70
 - [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=Denis535.Snapshot-Pro)
 
-# Tutorials
+# Articles
+- [The best practice and tips how to make your software design better](https://medium.com/@Denis535/the-best-practice-and-tips-how-to-make-your-software-design-better-7b7c3d8bd26c)
+- [Лучшие практики для Unity 3D проекта](https://habr.com/ru/articles/833532)
+- [Шутер от третьего лица](https://www.udemy.com/course/szfztcwd)
 - [Unity Character Motor](https://gamedev.ru/unity/articles/Unity_Character_Motor)
-- [Лучшие практики для Unity 3D проекта](https://habr.com/ru/articles/833532/)
-- [Шутер от третьего лица (пример профессиональной архитектуры)](https://www.udemy.com/course/szfztcwd)
 
 # Links
+- [Medium](https://medium.com/@Denis535)
+- [Habr](https://habr.com/ru/users/denis535)
+- [YouTube](https://www.youtube.com/channel/UCLFdZl0pFkCkHpDWmodBUFg)
+- [Udemy](https://www.udemy.com/user/denis-84102)
 - [NuGet](https://www.nuget.org/profiles/Denis535)
 - [Unity Package Registry](https://openupm.com/packages/?sort=downloads&q=denis535)
 - [Unity Asset Store](https://assetstore.unity.com/publishers/90787)
 - [Fab](https://www.fab.com/sellers/Denis535)
-- [YouTube](https://www.youtube.com/channel/UCLFdZl0pFkCkHpDWmodBUFg)
-- [Udemy](https://www.udemy.com/user/denis-84102)
