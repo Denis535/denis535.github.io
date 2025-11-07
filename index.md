@@ -1,6 +1,18 @@
 ![Logo](Logo.png)
 
 # .Net
+###### GameFramework.Pro (.Net)
+- [GitHub](https://github.com/Denis535/DotNet.Libraries/tree/main/GameFramework.Pro)
+- [NuGet](https://www.nuget.org/packages/GameFramework.Pro)
+
+###### StateMachine.Pro (.Net)
+- [GitHub](https://github.com/denis535/StateMachine.Pro)
+- [NuGet](https://www.nuget.org/packages/StateMachine.Pro)
+
+###### TreeMachine.Pro (.Net)
+- [GitHub](https://github.com/denis535/TreeMachine.Pro)
+- [NuGet](https://www.nuget.org/packages/TreeMachine.Pro)
+
 ###### Assert.Kind.Message.Condition (.Net)
 - [GitHub](https://github.com/denis535/DotNet.Extensions)
 - [NuGet](https://www.nuget.org/packages/Assert.Kind.Message.Condition)
@@ -12,18 +24,6 @@
 ###### Linq.Next (.Net)
 - [GitHub](https://github.com/denis535/DotNet.Extensions)
 - [NuGet](https://www.nuget.org/packages/Linq.Next)
-
-###### StateMachine.Pro (.Net)
-- [GitHub](https://github.com/denis535/StateMachine.Pro)
-- [NuGet](https://www.nuget.org/packages/StateMachine.Pro)
-
-###### TreeMachine.Pro (.Net)
-- [GitHub](https://github.com/denis535/TreeMachine.Pro)
-- [NuGet](https://www.nuget.org/packages/TreeMachine.Pro)
-
-###### GameFramework.Pro (.Net)
-- [GitHub](https://github.com/Denis535/DotNet.Libraries/tree/main/GameFramework.Pro)
-- [NuGet](https://www.nuget.org/packages/GameFramework.Pro)
 
 # Unity
 ###### Unity Shooter Example (Unity)
@@ -73,6 +73,9 @@ The video sample: https://youtu.be/lkr5mEreT70
 
 # Articles
 - [Best practices of designing software architecture](https://medium.com/@Denis535/best-practices-of-designing-software-architecture-bf21ba790b1a)
+- [GameFramework.Pro](https://medium.com/@Denis535/gameframework-pro-6d00c75ff491)
+- [StateMachine.Pro](https://medium.com/@Denis535/statemachine-pro-0330d4aab12e)
+- [TreeMachine.Pro](https://medium.com/@Denis535/treemachine-pro-3ea615d635db)
 - [Лучшие практики для Unity 3D проекта](https://habr.com/ru/articles/833532)
 - [Unity Character Motor](https://gamedev.ru/unity/articles/Unity_Character_Motor)
 
@@ -80,11 +83,11 @@ The video sample: https://youtu.be/lkr5mEreT70
 - [Шутер от третьего лица](https://www.udemy.com/course/szfztcwd)
 
 # Links
-- [Medium](https://medium.com/@Denis535)
-- [Habr](https://habr.com/ru/users/denis535)
-- [YouTube](https://www.youtube.com/channel/UCLFdZl0pFkCkHpDWmodBUFg)
-- [Udemy](https://www.udemy.com/user/denis-84102)
 - [NuGet](https://www.nuget.org/profiles/Denis535)
 - [Unity Package Registry](https://openupm.com/packages/?sort=downloads&q=denis535)
 - [Unity Asset Store](https://assetstore.unity.com/publishers/90787)
 - [Fab](https://www.fab.com/sellers/Denis535)
+- [Medium](https://medium.com/@Denis535)
+- [Habr](https://habr.com/ru/users/denis535)
+- [YouTube](https://www.youtube.com/channel/UCLFdZl0pFkCkHpDWmodBUFg)
+- [Udemy](https://www.udemy.com/user/denis-84102)
