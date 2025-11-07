@@ -72,10 +72,12 @@ The video sample: https://youtu.be/lkr5mEreT70
 - [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=Denis535.Snapshot-Pro)
 
 # Articles
-- [The best practice and tips how to make your software design better](https://medium.com/@Denis535/the-best-practice-and-tips-how-to-make-your-software-design-better-7b7c3d8bd26c)
+- [Best practices of designing software architecture](https://medium.com/@Denis535/best-practices-of-designing-software-architecture-bf21ba790b1a)
 - [Лучшие практики для Unity 3D проекта](https://habr.com/ru/articles/833532)
-- [Шутер от третьего лица](https://www.udemy.com/course/szfztcwd)
 - [Unity Character Motor](https://gamedev.ru/unity/articles/Unity_Character_Motor)
+
+# Tutorials
+- [Шутер от третьего лица](https://www.udemy.com/course/szfztcwd)
 
 # Links
 - [Medium](https://medium.com/@Denis535)
