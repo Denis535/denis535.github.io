@@ -72,7 +72,7 @@ The video sample: https://youtu.be/lkr5mEreT70
 - [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=Denis535.Snapshot-Pro)
 
 # Articles
-- [Best practices of designing software architecture](https://medium.com/@Denis535/best-practices-of-designing-software-architecture-bf21ba790b1a)
+- [Best practices for software architecture design](https://medium.com/@Denis535/best-practices-for-software-architecture-design-bf21ba790b1a)
 - [GameFramework.Pro](https://medium.com/@Denis535/gameframework-pro-6d00c75ff491)
 - [StateMachine.Pro](https://medium.com/@Denis535/statemachine-pro-0330d4aab12e)
 - [TreeMachine.Pro](https://medium.com/@Denis535/treemachine-pro-3ea615d635db)
