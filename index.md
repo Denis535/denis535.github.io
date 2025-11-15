@@ -90,10 +90,9 @@ The video sample: https://youtu.be/lkr5mEreT70
 
 # Links
 - [NuGet](https://www.nuget.org/profiles/Denis535)
-- [Unity Package Registry](https://openupm.com/packages/?sort=downloads&q=denis535)
 - [Unity Asset Store](https://assetstore.unity.com/publishers/90787)
-- [Fab](https://www.fab.com/sellers/Denis535)
+- [Unity Package Registry](https://openupm.com/packages/?sort=downloads&q=denis535)
 - [Medium](https://medium.com/@Denis535)
 - [Habr](https://habr.com/ru/users/denis535)
-- [YouTube](https://www.youtube.com/channel/UCLFdZl0pFkCkHpDWmodBUFg)
 - [Udemy](https://www.udemy.com/user/denis-84102)
+- [YouTube](https://www.youtube.com/channel/UCLFdZl0pFkCkHpDWmodBUFg)
