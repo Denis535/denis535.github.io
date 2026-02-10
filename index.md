@@ -14,11 +14,11 @@
 - https://www.nuget.org/packages/TreeMachine.Pro
 
 ###### Assert.Kind.Message.Condition (.Net)
-- https://github.com/denis535/DotNet.Extensions
+- https://github.com/Denis535/DotNet-Extensions/tree/master/Assert.Kind.Message.Condition
 - https://www.nuget.org/packages/Assert.Kind.Message.Condition
 
 ###### Option.Pro (.Net)
-- https://github.com/denis535/DotNet.Extensions
+- https://github.com/Denis535/DotNet-Extensions/tree/master/Option.Pro
 - https://www.nuget.org/packages/Option.Pro
 
 # Kotlin
@@ -83,9 +83,7 @@ The video sample: https://youtu.be/lkr5mEreT70
 
 # Articles
 - [Best practices for software architecture design](https://medium.com/@Denis535/best-practices-for-software-architecture-design-bf21ba790b1a)
-- [GameFramework.Pro](https://medium.com/@Denis535/gameframework-pro-6d00c75ff491)
-- [StateMachine.Pro](https://medium.com/@Denis535/statemachine-pro-0330d4aab12e)
-- [TreeMachine.Pro](https://medium.com/@Denis535/treemachine-pro-3ea615d635db)
+- [GameFramework.Pro (Kotlin)](https://medium.com/@Denis535/gameframework-pro-kotlin-17117e46459c)
 - [Лучшие практики для Unity 3D проекта](https://habr.com/ru/articles/833532)
 - [Unity Character Motor](https://gamedev.ru/unity/articles/Unity_Character_Motor)
 
@@ -93,10 +91,11 @@ The video sample: https://youtu.be/lkr5mEreT70
 - [Шутер от третьего лица](https://www.udemy.com/course/szfztcwd)
 
 # Links
-- [NuGet](https://www.nuget.org/profiles/Denis535)
-- [Unity Asset Store](https://assetstore.unity.com/publishers/90787)
-- [Unity Package Registry](https://openupm.com/packages/?sort=downloads&q=denis535)
 - [Medium](https://medium.com/@Denis535)
 - [Habr](https://habr.com/ru/users/denis535)
 - [Udemy](https://www.udemy.com/user/denis-84102)
+- [NuGet](https://www.nuget.org/profiles/Denis535)
+- [Maven](https://central.sonatype.com/search?namespace=io.github.denis535)
+- [Unity Asset Store](https://assetstore.unity.com/publishers/90787)
+- [Unity Package Registry](https://openupm.com/packages/?sort=downloads&q=denis535)
 - [YouTube](https://www.youtube.com/channel/UCLFdZl0pFkCkHpDWmodBUFg)
