@@ -91,11 +91,11 @@ The video sample: https://youtu.be/lkr5mEreT70
 - [Шутер от третьего лица](https://www.udemy.com/course/szfztcwd)
 
 # Links
-- [Medium](https://medium.com/@Denis535)
-- [Habr](https://habr.com/ru/users/denis535)
-- [Udemy](https://www.udemy.com/user/denis-84102)
 - [NuGet](https://www.nuget.org/profiles/Denis535)
 - [Maven](https://central.sonatype.com/search?namespace=io.github.denis535)
 - [Unity Asset Store](https://assetstore.unity.com/publishers/90787)
 - [Unity Package Registry](https://openupm.com/packages/?sort=downloads&q=denis535)
+- [Medium](https://medium.com/@Denis535)
+- [Habr](https://habr.com/ru/users/denis535)
+- [Udemy](https://www.udemy.com/user/denis-84102)
 - [YouTube](https://www.youtube.com/channel/UCLFdZl0pFkCkHpDWmodBUFg)
