@@ -84,6 +84,7 @@ The video sample: https://youtu.be/lkr5mEreT70
 # Articles
 - [Best practices for software architecture design](https://medium.com/@Denis535/best-practices-for-software-architecture-design-bf21ba790b1a)
 - [GameFramework.Pro (Kotlin)](https://medium.com/@Denis535/gameframework-pro-kotlin-17117e46459c)
+- [GameEngine.Pro (Kotlin)](https://medium.com/@Denis535/gameengine-pro-kotlin-b9dd335c5c04)
 - [Лучшие практики для Unity 3D проекта](https://habr.com/ru/articles/833532)
 - [Unity Character Motor](https://gamedev.ru/unity/articles/Unity_Character_Motor)
 
