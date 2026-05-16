@@ -1,4 +1,4 @@
-![Logo](Logo.png)
+![Logo](Logo-2.png)
 
 # .Net
 ###### GameFramework.Pro (.Net)
@@ -12,10 +12,6 @@
 ###### TreeMachine.Pro (.Net)
 - https://github.com/Denis535/DotNet-Libraries/tree/main/TreeMachine.Pro
 - https://www.nuget.org/packages/TreeMachine.Pro
-
-###### Assert.Kind.Message.Condition (.Net)
-- https://github.com/Denis535/DotNet-Extensions/tree/master/Assert.Kind.Message.Condition
-- https://www.nuget.org/packages/Assert.Kind.Message.Condition
 
 ###### Option.Pro (.Net)
 - https://github.com/Denis535/DotNet-Extensions/tree/master/Option.Pro
@@ -82,10 +78,11 @@ The video sample: https://youtu.be/lkr5mEreT70
 - [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=Denis535.Snapshot-Pro)
 
 # Articles
+- [Фреймворк GameFramework.Pro (.Net)](https://habr.com/ru/articles/1033776)
+- [Лучшие практики для Unity 3D проекта](https://habr.com/ru/articles/833532)
 - [Best practices for software architecture design](https://medium.com/@Denis535/best-practices-for-software-architecture-design-bf21ba790b1a)
 - [GameFramework.Pro (Kotlin)](https://medium.com/@Denis535/gameframework-pro-kotlin-17117e46459c)
 - [GameEngine.Pro (Kotlin)](https://medium.com/@Denis535/gameengine-pro-kotlin-b9dd335c5c04)
-- [Лучшие практики для Unity 3D проекта](https://habr.com/ru/articles/833532)
 - [Unity Character Motor](https://gamedev.ru/unity/articles/Unity_Character_Motor)
 
 # Tutorials
