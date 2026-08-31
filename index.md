@@ -78,7 +78,7 @@ The video sample: https://youtu.be/lkr5mEreT70
 - [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=Denis535.Snapshot-Pro)
 
 # Articles
-- [Best practices for project design](https://medium.com/@Denis535/best-practices-for-software-architecture-design-bf21ba790b1a)
+- [Best practices for project design](https://medium.com/@Denis535/bf21ba790b1a)
 - [Фреймворк GameFramework.Pro (.Net)](https://habr.com/ru/articles/1033776)
 - [Моё представление об идеальном системном языке программирования](https://habr.com/ru/articles/1071836)
 
