@@ -78,22 +78,15 @@ The video sample: https://youtu.be/lkr5mEreT70
 - [marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=Denis535.Snapshot-Pro)
 
 # Articles
-- [Фреймворк GameFramework.Pro (.Net)](https://habr.com/ru/articles/1033776)
-- [Лучшие практики для Unity 3D проекта](https://habr.com/ru/articles/833532)
 - [Best practices for software architecture design](https://medium.com/@Denis535/best-practices-for-software-architecture-design-bf21ba790b1a)
-- [GameFramework.Pro (Kotlin)](https://medium.com/@Denis535/gameframework-pro-kotlin-17117e46459c)
-- [GameEngine.Pro (Kotlin)](https://medium.com/@Denis535/gameengine-pro-kotlin-b9dd335c5c04)
-- [Unity Character Motor](https://gamedev.ru/unity/articles/Unity_Character_Motor)
-
-# Tutorials
-- [Шутер от третьего лица](https://www.udemy.com/course/szfztcwd)
+- [Фреймворк GameFramework.Pro (.Net)](https://habr.com/ru/articles/1033776)
+- [Моё представление об идеальном системном языке программирования](https://habr.com/ru/articles/1071836)
 
 # Links
+- [Habr](https://habr.com/ru/users/denis535)
+- [Medium](https://medium.com/@Denis535)
+- [YouTube](https://www.youtube.com/channel/UCLFdZl0pFkCkHpDWmodBUFg)
 - [NuGet](https://www.nuget.org/profiles/Denis535)
 - [Maven](https://central.sonatype.com/search?namespace=io.github.denis535)
 - [Unity Asset Store](https://assetstore.unity.com/publishers/90787)
 - [Unity Package Registry](https://openupm.com/packages/?sort=downloads&q=denis535)
-- [Medium](https://medium.com/@Denis535)
-- [Habr](https://habr.com/ru/users/denis535)
-- [Udemy](https://www.udemy.com/user/denis-84102)
-- [YouTube](https://www.youtube.com/channel/UCLFdZl0pFkCkHpDWmodBUFg)
