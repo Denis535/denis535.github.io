@@ -79,7 +79,7 @@ The video sample: https://youtu.be/lkr5mEreT70
 
 # Articles
 - [Best practices for project design](https://medium.com/@Denis535/bf21ba790b1a)
-- [Фреймворк GameFramework.Pro (.Net)](https://habr.com/ru/articles/1033776)
+- [GameFramework.Pro — чистая архитектура для игровых проектов](https://habr.com/ru/articles/1033776)
 - [Моё представление об идеальном системном языке программирования](https://habr.com/ru/articles/1071836)
 
 # Links
