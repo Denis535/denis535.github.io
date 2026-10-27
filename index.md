@@ -1,4 +1,4 @@
-![Logo](Logo-2.png)
+![Logo](Logo.png)
 
 # Kotlin
 ###### game-engine-pro (Kotlin)
